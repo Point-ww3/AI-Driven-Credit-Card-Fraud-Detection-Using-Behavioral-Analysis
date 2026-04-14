@@ -44,6 +44,7 @@ Converted categorical features
 Balanced dataset (if needed)
 
 📸 Ref 2: Data Cleaning Process
+"https://github.com/Point-ww3/AI-Driven-Credit-Card-Fraud-Detection-Using-Behavioral-Analysis/blob/main/Screenshot%202026-04-14%20182253.png"
 
 Step 3: Feature Engineering
 Extracted behavioral features:
