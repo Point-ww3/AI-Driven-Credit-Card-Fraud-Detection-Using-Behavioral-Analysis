@@ -53,6 +53,7 @@ Average spending
 Time-based patterns
 
 📸 Ref 3: Feature Engineering Output
+"https://github.com/Point-ww3/AI-Driven-Credit-Card-Fraud-Detection-Using-Behavioral-Analysis/blob/main/Screenshot%202026-04-14%20183011.png"
 
 Step 4: Model Training
 
