@@ -72,9 +72,8 @@ Recall
 Confusion Matrix
 
 📸 Ref 6: Model Evaluation Metrics
+https://github.com/Point-ww3/AI-Driven-Credit-Card-Fraud-Detection-Using-Behavioral-Analysis/blob/main/Screenshot%202026-05-10%20103647.png
 
-
-*Ref 1: Network Diagram*
 
 ### Project Outcome
 
