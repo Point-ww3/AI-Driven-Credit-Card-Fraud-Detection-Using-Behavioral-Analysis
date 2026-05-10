@@ -43,17 +43,11 @@ Normalized numerical data
 Converted categorical features
 Balanced dataset (if needed)
 
-📸 Ref 2: Data Cleaning Process
-"https://github.com/Point-ww3/AI-Driven-Credit-Card-Fraud-Detection-Using-Behavioral-Analysis/blob/main/Screenshot%202026-04-14%20182253.png"
-
 Step 3: Feature Engineering
 Extracted behavioral features:
 Transaction frequency
 Average spending
 Time-based patterns
-
-📸 Ref 3: Feature Engineering Output
-"https://github.com/Point-ww3/AI-Driven-Credit-Card-Fraud-Detection-Using-Behavioral-Analysis/blob/main/Screenshot%202026-04-14%20183011.png"
 
 Step 4: Model Training
 
@@ -63,14 +57,12 @@ Logistic Regression
 Random Forest
 Decision Tree
 
-📸 Ref 4: Model Training Output
 
 Step 5: Fraud Detection
 Model predicts whether transaction is fraud or not
 Generates probability score
 Flags suspicious transactions
 
-📸 Ref 5: Fraud Prediction Result
 
 Step 6: Evaluation
 Checked model performance using:
@@ -80,7 +72,7 @@ Recall
 Confusion Matrix
 
 📸 Ref 6: Model Evaluation Metrics
-Example below.
+
 
 *Ref 1: Network Diagram*
 
