@@ -33,9 +33,8 @@ Transaction amount
 Time
 User behavior patterns
 Fraud labels
-
 📸 Ref 1: Dataset Overview
-"https://github.com/Point-ww3/AI-Driven-Credit-Card-Fraud-Detection-Using-Behavioral-Analysis/commit/923d9e58888f79fa16dc4ace5aeee6c3e56c821b"
+"https://github.com/Point-ww3/AI-Driven-Credit-Card-Fraud-Detection-Using-Behavioral-Analysis/commit/e2156c03619d28561380bfaf5fee7c49a84eed35"
 
 Step 2: Data Preprocessing
 Cleaned missing values
@@ -50,9 +49,7 @@ Average spending
 Time-based patterns
 
 Step 4: Model Training
-
 Applied machine learning algorithms:
-
 Logistic Regression
 Random Forest
 Decision Tree
